@@ -1,0 +1,84 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="avishkarkc.com" resolutions="1x" timestamp="1479548173202">
+  <folder name="css">
+    <file name="site_global.css" crc="190894029"/>
+    <file name="index.css" crc="19641562" ref="index"/>
+    <file name="iefonts_index.css" crc="4092411870" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <folder name="butterfly">
+      <folder name="edge_includes">
+        <file name="edge.4.0.0.min.js" crc="4231652741" mt="1408955172000"/>
+        <file name="jquery-2.0.3.min.js" crc="155013199" mt="1408955172000"/>
+      </folder>
+      <folder name="images">
+        <file name="body.png" crc="495577733" mt="1408955172000"/>
+        <file name="Poster.png" crc="151567706" mt="1408955172000"/>
+        <file name="wing.png" crc="243493000" mt="1408955172000"/>
+        <file name="wing2.png" crc="3938914208" mt="1408955172000"/>
+      </folder>
+      <file name="butterfly_edge.js" crc="3772452116" mt="1408955172000"/>
+      <file name="butterfly_edgeActions.js" crc="25058509" mt="1408955172000"/>
+      <file name="butterfly_edgePreload.js" crc="265168293" mt="1408955172000"/>
+      <file name="butterfly.html" crc="4181826587" mt="1408955172000"/>
+    </folder>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u2118.php" crc="510168577" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="bkgd.jpg" crc="3863238255" seo="true" ref="index"/>
+    <file name="midground.png" crc="310790871" seo="true" ref="index"/>
+    <file name="u438-4.png" crc="5332182" ref="index"/>
+    <file name="mountains.png" crc="380582379" seo="true" ref="index"/>
+    <file name="pillar.png" crc="58959271" seo="true" ref="index"/>
+    <file name="u1401-4.png" crc="4193995446" ref="index"/>
+    <file name="path.png" crc="3936230496" seo="true" ref="index"/>
+    <file name="slovenia.jpg" crc="4285158583" seo="true" ref="index"/>
+    <file name="rio_bkgd.jpg" crc="4285542564" seo="true" ref="index"/>
+    <file name="rio_bkgdblur.jpg" crc="161196995" seo="true" ref="index"/>
+    <file name="rio_foregroundblur.png" crc="312650263" seo="true" ref="index"/>
+    <file name="rio_foreground.png" crc="4261663257" seo="true" ref="index"/>
+    <file name="africa_01.jpg" crc="36052360" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="africa_02.jpg" crc="4182924159" seo="true" ref="index"/>
+    <file name="africa_03.jpg" crc="171529002" seo="true" ref="index"/>
+    <file name="africa_04.jpg" crc="3838070715" seo="true" ref="index"/>
+    <file name="africa_05.jpg" crc="3883622394" seo="true" ref="index"/>
+    <file name="africa_06.jpg" crc="4081002641" seo="true" ref="index"/>
+    <file name="africa_07.jpg" crc="3986396374" seo="true" ref="index"/>
+    <file name="africa_08.jpg" crc="3758681513" seo="true" ref="index"/>
+    <file name="africa_09.jpg" crc="118178521" seo="true" ref="index"/>
+    <file name="africa_10.jpg" crc="10496621" seo="true" ref="index"/>
+    <file name="africa_11.jpg" crc="162897389" seo="true" ref="index"/>
+    <file name="africa_12.jpg" crc="3927180283" seo="true" ref="index"/>
+    <file name="africa_13.jpg" crc="4106889479" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u2129.png" crc="426211532" ref="index"/>
+    <file name="u2129-ferr.png" crc="447977944" ref="index"/>
+    <file name="u2121.png" crc="3794785708" ref="index"/>
+    <file name="u2121-ferr.png" crc="3922489003" ref="index"/>
+    <file name="u2126.png" crc="138168781" ref="index"/>
+    <file name="u2126-ferr.png" crc="4009796182" ref="index"/>
+    <file name="u2286.png" crc="344518370" ref="index"/>
+    <file name="u2286-ferr.png" crc="226556894" ref="index"/>
+    <file name="u2102_states.png" crc="4072604358" ref="index"/>
+    <file name="u2102_states-r.png" crc="20043832" ref="index"/>
+    <file name="u2105-4.png" crc="3933729459" ref="index"/>
+    <file name="u1452-4.png" crc="3853098625" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4061843046" seo="true" mt="1479548069350" redirect="true"/>
+</manifest>
